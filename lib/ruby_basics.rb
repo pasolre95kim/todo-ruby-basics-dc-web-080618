@@ -8,7 +8,6 @@ end
 
 def argue(argument)
   return "#{argument}"
-
 end
 
 def greeting
